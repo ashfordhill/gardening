@@ -2,7 +2,7 @@
 
 - [2026](#2026)
   - [Garden](#garden)
-    - [August Update](#august-update)
+    - [July \& August Update](#july--august-update)
     - [June Update](#june-update)
     - [May Update](#may-update)
       - [New Plants](#new-plants)
@@ -14,9 +14,113 @@
 
 ## Garden
 
-### August Update
+### July & August Update
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/backyard-june-28.JPEG" alt="Backyard June 28" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/wildflowers-june-27.JPEG" alt="Wildflowers June 27" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>June 28, wildflowers still emerging</em></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/before-thunderstorm.JPEG" alt="Before thunderstorm" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <video src="media/thunderstorm.mp4" controls width="240"></video>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/after-thunderstorm.JPEG" alt="After thunderstorm" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><em>before/during/after strong thunderstorms in late July.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/bumblebeeeee.JPEG" alt="Bumblebee" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <video src="media/multiple-bees-august-19.mp4" controls width="390"></video>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>The classic yellow sunflowers (giant) have bees on them 24/7. The bees even sleep in them.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/cricket-hunter-wasp.JPEG" alt="Cricket hunter wasp" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/where-cricket.png" alt="Where's the cricket?" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Steel blue cricker hunter wasp that lives in a hole in my garden. Taking a paralyzed cricket back to its nest.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/echinacea-vanilla-puff.JPEG" alt="Echinacea Vanilla Puff" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/kniphofia-lady-luck-august-7.JPEG" alt="Kniphofia Lady Luck" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/sunflower-red-july-21.JPEG" alt="Red sunflower" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><em><a href="https://www.bluestoneperennials.com/ECPV.html">Echinacea Vanilla Puff</a> / <a href="https://www.bluestoneperennials.com/KNLL.html">Kniphofia Lady Luck</a> / <a href="https://www.edenbrothers.com/products/floren-sunflower-seeds">Floren sunflowers</a></em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/giant-sunflower-august-7.JPEG" alt="Giant sunflower August 7" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/giant-sunflower-august-28.JPEG" alt="Giant sunflower August 28" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>August 7 / August 28, the tallest one in my garden! Mongolian giant sunflower.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/skunk-party-time.JPEG" alt="Skunk" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/stretchy-cat.JPEG" alt="Stretchy cat" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>I see the skunk often and lots of attention-seeking cats. This one is particularly friendly.</em></td>
+  </tr>
+</table>
+
+---
 
 ### June Update
 

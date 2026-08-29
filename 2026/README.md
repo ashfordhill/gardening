@@ -36,7 +36,7 @@
       <img src="media/before-thunderstorm.JPEG" alt="Before thunderstorm" width="240" />
     </td>
     <td align="center" valign="top" width="33%">
-      <video src="https://github.com/ashfordhill/gardening/raw/main/2026/media/thunderstorm.mp4" controls width="240"></video>
+      <video src="https://github.com/user-attachments/assets/eef6bd2c-338b-4907-a88a-22e7d9b2accc" controls width="240"></video>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="media/after-thunderstorm.JPEG" alt="After thunderstorm" width="240" />
@@ -53,7 +53,7 @@
       <img src="media/bumblebeeeee.JPEG" alt="Bumblebee" width="390" />
     </td>
     <td align="center" valign="top" width="50%">
-      <video src="https://github.com/ashfordhill/gardening/raw/main/2026/media/multiple-bees-august-19.mp4" controls width="390"></video>
+      <video src="https://github.com/user-attachments/assets/3303adae-839a-4e93-ad61-8b83d0bca913" controls width="390"></video>
     </td>
   </tr>
   <tr>

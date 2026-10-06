@@ -1,13 +1,8 @@
 # Gardening
 
-A collection of yard and gardening projects. For other home projects, see [Home Projects](https://github.com/ashfordhill92/home-projects).
+A collection of yard and gardening projects. 
 
-## By Project
-
-- [Yard, front & back (2026)](2026/README.md#garden)
-- [Yard, back (2025)](2025/README.md#backyard)
-- [Yard, front (2024)](2024/README.md#front-yard)
-- [Yard, front (2023)](2023/README.md#front-yard)
+- For non-gardening home projects, see [Home Projects](https://github.com/ashfordhill/home-projects).
 
 ## By Year
 

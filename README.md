@@ -1,6 +1,6 @@
 # Gardening
 
-A collection of yard and gardening projects, split out from [home-projects](https://github.com/ashfordhill92/home-projects).
+A collection of yard and gardening projects. For other home projects, see [Home Projects](https://github.com/ashfordhill92/home-projects).
 
 ## By Project
 

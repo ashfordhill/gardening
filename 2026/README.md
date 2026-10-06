@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><em>This sunflower got its base snapped in the strong thunderstorms from late July. While some were lost for the year, this little (big?) guy just kept chugging along. Left: still in bloom. Right: the snapped base.</em></td>
+    <td colspan="2" align="center"><em>This sunflower got its base snapped in the strong thunderstorms from late July. While some were lost for the year, this little (big?) guy just kept chugging along.</em></td>
   </tr>
 </table>
 
@@ -82,15 +82,15 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><em>I dug up and hand removed the remaining sod in the backyard in order to try a round of microclover seeds.</em></td>
+    <td colspan="3" align="center"><em>Dug up and hand removed the remaining sod in the backyard in order to try a round of microclover seeds. It was a lot more work than what I expected, ended up being a great workout though.</em></td>
   </tr>
 </table>
 
-Microclover is touted as a low-fuss alternative to grass. There *is* a catch though: It won't always stay 'micro' year over year since it will breed with wild clover over time (unless you keep reseeding to force micro dominance). I'm curious to see how it'll turn out.
+Microclover is touted as a low-fuss alternative to grass. There *is* a catch though: It won't always stay 'micro' year-over-year since it will breed with wild clover over time (unless you keep reseeding to force micro dominance). I'm curious to see how it'll turn out.
 
-I also want to transplant some blue star creeper I got off Etsy in an area away from the clover to see how it does here.
+I also planted several types of Sedum ("stonecrop") from [Bluestone Perennials](https://www.bluestoneperennials.com/). 
 
-I also planted various types of Sedum ("stonecrop") from [Bluestone Perennials](https://www.bluestoneperennials.com/). Despite being on the pricier side, I really appreciate their plant quality. They also use coconut planters that you just put right in the ground — plus it's a lot less stressful for the plant as well!
+  - Despite being on the pricier side, I really appreciate Bluestone's quality. They also use coconut planters that you just put right in the ground; it's a lot less stressful for the plant as well!
 
 #### Front Yard
 

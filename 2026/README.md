@@ -2,6 +2,14 @@
 
 - [2026](#2026)
   - [Garden](#garden)
+    - [September Update](#september-update)
+      - [Sunflower Finale](#sunflower-finale)
+      - [Gifts from Violin Teacher](#gifts-from-violin-teacher)
+      - [Kill the Grass!](#kill-the-grass)
+      - [Front Transplanting](#front-transplanting)
+      - [Moss](#moss)
+      - [Critters](#critters)
+      - [Current State](#current-state)
     - [July \& August Update](#july--august-update)
     - [June Update](#june-update)
     - [May Update](#may-update)
@@ -13,6 +21,161 @@
       - [Blossoms](#blossoms)
 
 ## Garden
+
+### September Update
+
+#### Sunflower Finale
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/the-little-sunflower-that-could-1.JPEG" alt="Sunflower still blooming after its stem snapped" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/the-little-sunflower-that-could-2.JPEG" alt="Close-up of the snapped sunflower base" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>This sunflower got its base snapped in the strong thunderstorms from late July. While some were lost for the year, this little (big?) guy just kept chugging along. Left: still in bloom. Right: the snapped base.</em></td>
+  </tr>
+</table>
+
+#### Gifts from Violin Teacher
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/violin-teacher-marigolds.JPEG" alt="Marigold starts on June 19" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/marigolds-full-grown.JPEG" alt="Marigolds full grown on September 14" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>6/19 and 9/14. The marigolds from my violin teacher. I was not expecting them to blow up like this and wonder if I should be concerned for the Coral Bark Japanese Maple in the center.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/violin-teacher-iris-gift.JPEG" alt="A bag of iris bulbs" width="520" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>My violin teacher also dumped a bunch of her iris bulbs on me. I'm running out of space.</em></td>
+  </tr>
+</table>
+
+#### Kill the Grass!
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/backyard-grass-removal-1.JPEG" alt="Backyard midway through grass removal" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/backyard-grass-removal-2.JPEG" alt="Sod pile and new sedum" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/backyard-grass-removal-3.JPEG" alt="Backyard after the grass was removed" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><em>I dug up and hand removed the remaining sod in the backyard in order to try a round of microclover seeds.</em></td>
+  </tr>
+</table>
+
+Microclover is touted as a low-fuss alternative to grass. There *is* a catch though: It won't always stay 'micro' year over year since it will breed with wild clover over time (unless you keep reseeding to force micro dominance). I'm curious to see how it'll turn out.
+
+I also want to transplant some blue star creeper I got off Etsy in an area away from the clover to see how it does here.
+
+I also planted various types of Sedum ("stonecrop") from [Bluestone Perennials](https://www.bluestoneperennials.com/). Despite being on the pricier side, I really appreciate their plant quality. They also use coconut planters that you just put right in the ground — plus it's a lot less stressful for the plant as well!
+
+#### Front Yard
+
+Not much happened in the front this year. I am planning on removing sod in the parkway, which is the last lawn area on my property. But that's a 2027 project!
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/front-transplant-plans.jpeg" alt="Annotated plan for moving front-yard plants" width="420" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Planning to move some ornamental grasses around later in the fall season. The lilies (orange X) that I planted replicate like crazy, so I keep shoving them into the corner until I figure out what to do with them.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/aster-bluebird-09-07.JPEG" alt="Aster Bluebird in bloom" width="480" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Aster Bluebird in the front is happily blooming.</em></td>
+  </tr>
+</table>
+
+#### Moss
+
+I've always loved the look of moss. We get a generous amount of natural moss here, especially between sidewalk and concrete cracks. I'm curious how growing moss on stone and wood would work out here, so I grabbed moss around the sides of the house and in parkways to start clumping it. Moss doesn't take over and persist aggressively because when tree leaves fall and decompose, they suffocate a large amount of the helpless moss.
+
+Moss is curious in that it doesn't need soil to grow. It uses rhizoids to anchor itself to a sturdy surface. The tiny leaves are the green parts that you see. The leaves take in water instead of a root system. You can buy moss for transplanting ([Moss-Tac adhesive](https://mossacres.com/products/moss-tac-moss-adhesive) can improve the success rate to make sure it stays anchored) or even a [moss milkshake](https://mossacres.com/products/moss-milkshake) to cultivate your own. Might experiment with a moss milkshake next year, it seems easy enough to do.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/moss-in-parkway.JPEG" alt="Moss clumps in the parkway" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/moss-transplanted-zoom-out-overcast.JPEG" alt="Transplanted moss along a timber on an overcast day" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/moss-transplanted-zoom-in-sunny.JPEG" alt="Close-up of transplanted moss in the sun" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><em>Took a clump from moss in the parkway. Transplanted moss from the house sides. Zoom in of moss on a sunny day and after a watering.</em></td>
+  </tr>
+</table>
+
+#### Critters
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="media/cat-malibu.JPEG" alt="Malibu, a white and grey neighborhood cat" width="280" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="media/cat-corner-grey-green-eyes.JPEG" alt="Grey cat with green eyes" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/fun-spider-web-halloween.JPEG" alt="Spider web strung across Halloween decorations" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/snail-and-slug-on-mulch.JPEG" alt="A snail and a slug on wet mulch" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Some friendly neighborhood cats, a nicely placed natural spiderweb and funny looking rain critters. The first time I saw a slug was a couple years ago here - it was very flesh-colored and I thought it was an alien at first!</em></td>
+  </tr>
+</table>
+
+#### Current State
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/backyard-october.JPEG" alt="Backyard in October" width="640" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### July & August Update
 
@@ -407,3 +570,4 @@ Adelman's also surprised me with a sack of **8 random peony roots** towards the 
 </table>
 
 #### Blossoms
+st

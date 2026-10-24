@@ -2,6 +2,11 @@
 
 - [2026](#2026)
   - [Garden](#garden)
+    - [October Update](#october-update)
+      - [Indoor Plants](#indoor-plants)
+      - [Critters](#critters)
+      - [Halloween Around Berwyn](#halloween-around-berwyn)
+      - [Current State](#current-state)
     - [July \& August Update](#july--august-update)
     - [June Update](#june-update)
     - [May Update](#may-update)
@@ -13,6 +18,129 @@
       - [Blossoms](#blossoms)
 
 ## Garden
+
+### October Update
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/mums-prebloom.JPEG" alt="Mums pre-bloom" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/mums-fullbloom.JPEG" alt="Mums in full bloom" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Pre-bloom / full bloom. <a href="https://www.bluestoneperennials.com/MSNOW.html">Chrysanthemum Valor</a> from Bluestone Perennials.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/staking-plants.JPEG" alt="Staked plants" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Staked some plants sprawling out.</em></td>
+  </tr>
+</table>
+
+#### Indoor Plants
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/flowering-baby-toes.JPEG" alt="Flowering baby toes succulent" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Got some succulents; baby toes is my favorite. Pictured with a flower here.</em></td>
+  </tr>
+</table>
+
+#### Critters
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/frankie-halloween.JPEG" alt="Frankie with her witch hat" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/spider.gif" alt="Jumping spider on my hand" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Frankie likes to make soup, this time with her witch hat that was in her <a href="https://squawkboxes.com/">SquawkBox</a>. I tossed out the water, ugh. Found a little jumping spider friend to play with.</em></td>
+  </tr>
+</table>
+
+#### Halloween Around Berwyn
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/october-house-1.JPEG" alt="House lit up in green and purple" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/october-house-2.JPEG" alt="House in red light with a giant bat" width="240" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/october-house-4.JPEG" alt="Front yard haunted house setup" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/october-house-5.JPEG" alt="House with a clown and jack-o'-lanterns" width="240" />
+    </td>
+    <td align="center" valign="top" colspan="2">
+      <img src="media/october-house-move.gif" alt="Animatronic moving in a blue-lit yard" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><em>People really get into their decorations around Berwyn. I need to scout out the resident friendly Uber driver Joe — he goes all out with a haunted house, bonfire and animatronics. He'll talk your ear off about Halloween all day.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/october-house-3.JPEG" alt="Cozy fall front garden at dusk" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Bonus: not really Halloween themed, but this was a cozy fall scene. Some houses sit deeper in their lots and/or sit on double lots, which allow for designs like these to exist.</em></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="media/trick-or-treat-prep.JPEG" alt="Trick or treat supplies" width="390" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="media/trick-or-treat-prep-2.JPEG" alt="Prefilled trick or treat baggies" width="390" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Made some prefilled baggies to hand out this year. The <a href="https://www.amazon.com/RICEDUO-Pcs-Halloween-Treat-Bags/dp/B0F7QZM5S6">bags from Amazon</a> were so cute!</em></td>
+  </tr>
+</table>
+
+#### Current State
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/backyard-10-24.JPEG" alt="Backyard October 24" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Not sure what I want to do with that pile of dirt yet. 🤷</em></td>
+  </tr>
+</table>
+
+---
 
 ### July & August Update
 
